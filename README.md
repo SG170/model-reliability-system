@@ -8,7 +8,7 @@ full retraining.
 
 ## Project plan
 - [x] Day 1 — Build a data stream with simulated drift
-- [ ] Day 2 — Train baseline model
+- [x] Day 2 — Train baseline model
 - [ ] Day 3 — Drift detection
 - [ ] Day 4 — Active learning retraining loop
 - [ ] Day 5 — Retraining trigger policy
